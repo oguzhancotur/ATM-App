@@ -1,2 +1,2 @@
-# ATM-Uygulamas-
-Switch-Case ile ATM Uygulaması
+# ATM-App
+ATM Application with Switch-Case
